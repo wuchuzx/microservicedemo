@@ -1,0 +1,6 @@
+server:
+  port: 7800
+
+spring:
+  application:
+    name: provider
